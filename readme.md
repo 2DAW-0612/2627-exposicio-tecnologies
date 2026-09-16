@@ -81,3 +81,11 @@
 - Principals funcions de les DevTools: inspecció, consola, network, etc.
 - Demo de com utilitzar les Chrome DevTools per millorar el desenvolupament web (o com creieu que ens podrà ajudar).
 
+## Grup 11: Depuració (Debugging) integrada a VSCode
+- Deixar de dependre del console.log per trobar errors i aprendre a controlar l'execució del codi.
+- Utilitzar el panell de depuració de VSCode, afegir punts d'aturada (breakpoints) a node_script.js o script.js i inspeccionar el valor de les variables pas a pas.
+
+## Grup 12: Validació d'estàndars web amb les eines de la W3C
+- Assegurar que la pàgina compleix les especificacions oficials dels navegadors.
+- Passar un fitxer pel W3C Markup Validation Service per identificar etiquetes no tancades, atributs obsolets o errors d'anidament.
+
